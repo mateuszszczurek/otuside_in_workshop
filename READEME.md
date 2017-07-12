@@ -1,6 +1,7 @@
 Write a shopping aid system that will allow the user to:
 * add items to the shopping list
 * specify maximum amount of money to spend
+* should not allow the user to go beyond maximum amount
 * offer cheaper alternatives while adding products
 * get items from the list based on category (groceries, manufactured goods)
 * assign shopping lists to particular dates
